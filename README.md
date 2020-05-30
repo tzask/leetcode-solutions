@@ -1,4 +1,4 @@
-# leetcode-solutions
+# leetcode solutions in ruby
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
